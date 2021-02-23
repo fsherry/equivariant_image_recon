@@ -1,0 +1,9 @@
+slurm*
+__pycache__/
+*#*
+*~
+*.swp
+*.un
+build/
+dist/
+equivariant_ip.egg-info/
