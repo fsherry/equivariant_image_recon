@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/341419972.svg)](https://zenodo.org/badge/latestdoi/341419972)
 
-This package implements the methods described in "Equivariant neural networks for inverse problems". 
+This package implements the methods described in ["Equivariant neural networks for inverse problems"](https://arxiv.org/abs/2102.11504).
 
 ## Installation
 
